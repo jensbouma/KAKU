@@ -1,4 +1,4 @@
-# KAKU
+# KAKU/COCO
 KAKU control with Adruino
 
 It's a 2 part system:
